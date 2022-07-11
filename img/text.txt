@@ -1,0 +1,114 @@
+--- Features
+
+Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tenetur distinctio necessitatibus pariatur voluptatibus.
+
+Voluptatum mollitia quae. Vero ipsum sapiente molestias accusamus rerum sed a eligendi aut quia.
+
+Tenetur distinctio necessitatibus pariatur voluptatibus quidem consequatur harum.
+
+Vero ipsum sapiente molestias accusamus rerum. Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+
+Quidem consequatur harum, voluptatum mollitia quae. Tenetur distinctio necessitatibus pariatur voluptatibus.
+
+Pariatur voluptatibus quidem consequatur harum, voluptatum mollitia quae.
+
+
+--- Stories
+
+Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tenetur distinctio necessitatibus pariatur voluptatibus. Quidem consequatur harum volupta!
+
+
+
+
+
+
+
+
+
+ <body class="container"> 
+
+       <div class="sidebar">
+           Sidebar lore
+     </div>
+     <header class="header">
+         Header
+     </header>
+     <div class="realtors">
+         Top 3 realtours
+     </div>
+     <section class="features">
+         <div class="feature">
+             <svg class="feature__icon">
+                 <use xlink:href="img/sprite.svg#icon-global"></use>
+             </svg>
+             <h4 class="heading__4">World's best luxury homes</h4>
+             <p class="feature__text">
+                 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tenetur distinctio necessitatibus pariatur voluptatibus.
+             </p>
+        </div>
+         <div class="feature">
+             <svg class="feature__icon">
+                 <use xlink:href="img/sprite.svg#icon-trophy"></use>
+             </svg>
+             <h4 class="heading__4">Only the best properties</h4>
+             <p class="feature__text">
+                 Voluptatum mollitia quae. Vero ipsum sapiente molestias accusamus rerum sed a eligendi aut quia.
+             </p>
+        </div>
+         <div class="feature"> 
+             <svg class="feature__icon">
+                 <use xlink:href="img/sprite.svg#icon-map-pin"></use>
+             </svg>
+             <h4 class="heading__4">All homes in top locations</h4>
+             <p class="feature__text">
+                 Tenetur distinctio necessitatibus pariatur voluptatibus quidem consequatur harum.
+             </p>
+        </div>
+         <div class="feature">
+             <svg class="feature__icon">
+                 <use xlink:href="img/sprite.svg#icon-key"></use>
+             </svg>
+             <h4 class="heading__4">New home in one week</h4>
+             <p class="feature__text">
+                Vero ipsum sapiente molestias accusamus rerum. Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+             </p>
+        </div>
+         <div class="feature">
+             <svg class="feature__icon">
+                 <use xlink:href="img/sprite.svg#icon-presentation"></use>
+             </svg>
+             <h4 class="heading__4">Top 1% realtors</h4>
+             <p class="feature__text">
+                Quidem consequatur harum, voluptatum mollitia quae. Tenetur distinctio necessitatibus pariatur voluptatibus.
+             </p>
+        </div>
+         <div class="feature">
+             <svg class="feature__icon">
+                 <use xlink:href="img/sprite.svg#icon-lock"></use>
+             </svg>
+             <h4 class="heading__4">Secure payment on nexter</h4>
+             <p class="feature__text">
+                Pariatur voluptatibus quidem consequatur harum, voluptatum mollitia quae.ujk
+             </p>
+        </div>
+        
+     </section>
+     <div class="story__pictures">
+            sotry pictures
+     </div>
+     <div class="story__content">
+         Story Content
+     </div>
+
+     <section class="homes">
+         Homes
+     </section>
+
+     <section class="gallery">
+         Gallery
+     </section>
+
+     <footer class="footer">
+         Footer
+     </footer>
+</body> 
